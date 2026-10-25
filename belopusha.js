@@ -165,7 +165,7 @@ const hotspots = [
     {
         id: "rrrrr",
         x: 65,
-        y: 71.5,
+        y: 31,
         iconUrl: "image/v.png",
         title: "Сказка круглый год: Поместье Деда Мороза",
         summary1: "Подробнее",
