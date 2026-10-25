@@ -128,8 +128,8 @@ submitBtn.addEventListener('click', () => {
 const hotspots = [
     {
         id: "a",
-        x: 65,
-        y: 71.5,
+        x: 55,
+        y: 72,
         iconUrl: "image/v.png",
         title: "",
         summary1: "Подробнее",
@@ -138,7 +138,7 @@ const hotspots = [
     {
         id: "aa",
         x: 65,
-        y: 71.5,
+        y: 35,
         iconUrl: "image/v.png",
         title: "",
         summary1: "Подробнее",
@@ -146,8 +146,8 @@ const hotspots = [
     },
     {
         id: "aaa",
-        x: 65,
-        y: 71.5,
+        x: 45,
+        y: 42,
         iconUrl: "image/v.png",
         title: "",
         summary1: "Подробнее",
@@ -155,8 +155,8 @@ const hotspots = [
     },
     {
         id: "aaaa",
-        x: 65,
-        y: 71.5,
+        x: 54,
+        y: 42,
         iconUrl: "image/v.png",
         title: "",
         summary1: "Подробнее",
@@ -164,8 +164,8 @@ const hotspots = [
     },
     {
         id: "aaaaa",
-        x: 65,
-        y: 71.5,
+        x: 25,
+        y: 76,
         iconUrl: "image/v.png",
         title: "",
         summary1: "Подробнее",
